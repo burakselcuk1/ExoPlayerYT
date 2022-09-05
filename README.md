@@ -7,6 +7,11 @@
 [![Linkedin](https://img.shields.io/badge/-linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/burak-sel%C3%A7uk-a4740b218/)
 
 
+📄 License 
+-------
+
+```
+
 MIT License
 
 Copyright (c) 2022 Burak Selcuk
