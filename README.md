@@ -3,17 +3,13 @@
  <img src="https://avatars.githubusercontent.com/u/89164849?v=4" width="70" align="left">
 
 
-
-
-
 ## 👨 Developed By Burak Selcuk
-
+[![Linkedin](https://img.shields.io/badge/-linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/burak-sel%C3%A7uk-a4740b218/)
 
 
 MIT License
 
 Copyright (c) 2022 Burak Selcuk
-[![Linkedin](https://img.shields.io/badge/-linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/burak-sel%C3%A7uk-a4740b218/)
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
